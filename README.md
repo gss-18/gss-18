@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gss-18
-- 👀 I’m interested in Data Science, Android Development
-- 🌱 I’m currently learning Machine Learning
+- 👀 I’m interested in Data Science, Android Development and Web Development.
+- 🌱 I’m currently learning Machine Learning and MERN stack
 - 💞️ I’m looking to collaborate on any Technical related challenges
 - 📫 How to reach me gsstrivikram18@gmail.com
 
