@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **React Js, Next Js, Tailwind CSS, Scikit-Learn**
 
-- 📫 How to reach me **gsstrivikram@gmail.com**
+- 📫 How to reach me **gsstrivikram18@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
