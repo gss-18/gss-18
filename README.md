@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm GSS Trivikram</h1>
-<h3 align="center">I am a Junior at Birla Institute of Technology-Mesra pursuing engineering in Computer Science. I am an ASPIRING DATA SCIENTIST. My interests involve WEB Development, ML, Deep Learning, Data Science, Data Structures, and Algorithm, and Cybersecurity.</h3>
+<h3 align="center">I am a graduate from Birla Institute of Technology-Mesra. I am an ASPIRING DATA SCIENTIST. My interests involve WEB Development, ML, Deep Learning, Data Science, Data Structures, and Algorithm, and Cybersecurity.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gss-18&label=Profile%20views&color=0e75b6&style=flat" alt="gss-18" /> </p>
 
