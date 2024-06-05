@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm GSS Trivikram</h1>
-<h3 align="center">I am a graduate from Birla Institute of Technology-Mesra. I am an ASPIRING DATA SCIENTIST. My interests involve WEB Development, ML, Deep Learning, Data Science, Data Structures, and Algorithm, and Cybersecurity.</h3>
+<h3 align="center">As an aspiring data scientist, I am eagerly exploring opportunities to channel my passion for cutting-edge web development and data-driven solutions. My background as a Web Developer Intern at Brainerd Solutions and Project Trainee at Bosch has equipped me with advanced proficiencies in Next.js, AWS Lambda, DynamoDB, and ReactJS. These skills have empowered me to create multi-tenant web portals, seamlessly integrate identity management systems, and orchestrate engaging events. With a strong foundation in project management, technical prowess, and a collaborative spirit, I am excited to contribute to meaningful outcomes in the field of data science.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gss-18&label=Profile%20views&color=0e75b6&style=flat" alt="gss-18" /> </p>
 
-- 🔭 I’m currently working with CSA-BLR as Web Developer and Student Community Builder. [https://csabangalorechapter.org/](https://csabangalorechapter.org/)
+- 🔭 I’m currently working with Wyantt College of Optical Sciences, University Of Arizona, Tucosn, Arizona. 
 
-- 💬 Ask me about **React Js, Next Js, Tailwind CSS, Scikit-Learn**
+- 💬 Ask me about **Data Science and WebDevelopment**
 
 - 📫 How to reach me **gsstrivikram18@gmail.com**
 
